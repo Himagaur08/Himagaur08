@@ -6,7 +6,7 @@ I'm a passionate **Android developer** who builds modern, high-performance apps 
 
 ### 🛠️ Tech Stack:
 - **Languages:** Kotlin, C++
-- **Frameworks & Tools:** Jetpack Compose, Android Jetpack, Coroutines, Flow, Hilt, Room, Retrofit
+- **Frameworks & Tools:** Jetpack Compose, Android Jetpack, Coroutines, Flow, Room, Retrofit
 - **Architecture:** MVVM, Clean Architecture
 - **Version Control:** Git, GitHub
 
