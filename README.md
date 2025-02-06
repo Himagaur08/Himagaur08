@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ef448504-79d4-4f21-be7f-e4e8472c9ffe)# Hi there, I'm Himanshu Gaur 👋
+# Hi there, I'm Himanshu Gaur 👋
 
 ### 🚀 Android Developer | Kotlin | Jetpack Compose
 
