@@ -8,7 +8,9 @@ I'm a passionate **Android developer** who builds modern, high-performance apps 
 - **Languages:** Kotlin, C++
 - **Frameworks & Tools:** Jetpack Compose, Android Jetpack, Coroutines, Flow, Room, Retrofit
 - **Architecture:** MVVM, Clean Architecture
-- **Version Control:** Git, GitHub
+- **Version Control:** Git
+- **Databases:** MYSQL, SQLite, Room, Firebase Realtime Database
+- **Development Tools & Environments:** Android Studio, Visual Studio Code, Github, Gradle
 
 
 ### 📌 Projects:
