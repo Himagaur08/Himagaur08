@@ -1,4 +1,4 @@
-# Hi there, I'm Himanshu Gaur 👋
+![image](https://github.com/user-attachments/assets/ef448504-79d4-4f21-be7f-e4e8472c9ffe)# Hi there, I'm Himanshu Gaur 👋
 
 ### 🚀 Android Developer | Kotlin | Jetpack Compose
 
@@ -8,9 +8,9 @@ I'm a passionate **Android developer** who builds modern, high-performance apps 
 - **Languages:** Kotlin, C++
 - **Frameworks & Tools:** Jetpack Compose, Android Jetpack, Coroutines, Flow, Room, Retrofit
 - **Architecture:** MVVM, Clean Architecture
-- **Version Control:** Git
+- **Version Control:** Git, GitHub
 - **Databases:** MYSQL, SQLite, Room, Firebase Realtime Database
-- **Development Tools & Environments:** Android Studio, Visual Studio Code, Github, Gradle
+- **Development Tools & Environments:** Android Studio, Visual Studio Code, Gradle
 
 
 ### 📌 Projects:
@@ -18,9 +18,11 @@ I'm a passionate **Android developer** who builds modern, high-performance apps 
 - 📱 ** Weather App **  - This application serves as a weather platform that utilizes a weather API to provide users with accurate and timely weather information. which uses weather API to show weather to the user.
 
 ### 📫 Let's Connect:
-- 📧 Email: himagaur2708@gmail.com
-- 💼 LinkedIn: [Himanshu Gaur](https://www.linkedin.com/in/himanshu-gaur-5a1b03219)
-- 🐦 Twitter: [@himagaur08](https://x.com/Himagaur08)
+- Email: himagaur2708@gmail.com
+- LinkedIn: [Himanshu Gaur](https://www.linkedin.com/in/himanshu-gaur-5a1b03219)
+- Twitter: [@himagaur08](https://x.com/Himagaur08)
+- Blogs: [himagaur](https://hashnode.com/@himagaur) , [himagaur2708](https://dev.to/himagaur2708)
+
 
 💡 Always exploring new technologies and improving myself
 
