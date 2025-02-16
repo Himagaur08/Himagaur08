@@ -20,6 +20,7 @@ I'm a passionate **Android developer** who builds modern, high-performance apps 
 ### 📫 Let's Connect:
 - Email: himagaur2708@gmail.com
 - LinkedIn: [Himanshu Gaur](https://www.linkedin.com/in/himanshu-gaur-5a1b03219)
+- Portfolio: [Portfolio](https://himanshugaurportfolio.netlify.app/)
 - Twitter: [@himagaur08](https://x.com/Himagaur08)
 - Blogs: [himagaur](https://hashnode.com/@himagaur) , [himagaur2708](https://dev.to/himagaur2708)
 
