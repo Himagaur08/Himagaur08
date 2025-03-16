@@ -30,5 +30,5 @@ I'm a passionate **Android developer** who builds modern, high-performance apps 
 - Blogs: [himagaur](https://hashnode.com/@himagaur) , [himagaur2708](https://dev.to/himagaur2708)
 
 
-💡 Always exploring new technologies and improving myself
+💡 Always exploring new technologies and improving myself.
 
